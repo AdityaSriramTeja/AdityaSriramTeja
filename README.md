@@ -5,7 +5,7 @@ I'm Teja Chilukuri, a second-year Computer Science Honours student @ Carleton Un
 
 
 *   🌍  I'm based in Ottawa, Ontario
-*   🖥️  See my portfolio at [https://tejachilukuri.vercel.app](https://tejachilukuri.vercel.app)
+*   🖥️  See my portfolio at [https://teja-chilukuri.vercel.app](https://teja-chilukuri.vercel.app)
 *   ✉️ You can contact me at [https://www.linkedin.com/in/aditya-sriramteja-chilukuri/](https://www.linkedin.com/in/aditya-sriramteja-chilukuri/) or [ch.adityasriramteja@gmail.com](mailto:ch.adityasriramteja@gmail.com)
 
 ### 🎯 Interests
