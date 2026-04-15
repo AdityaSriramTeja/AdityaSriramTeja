@@ -1,11 +1,10 @@
 Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
-I'm Teja Chilukuri, a second-year Computer Science Honours student @ Carleton University 🏫
+I'm Teja Chilukuri, a fourth-year Computer Science Honours student @ Carleton University 🏫
 
 
 *   🌍  I'm based in Ottawa, Ontario
-*   🖥️  See my portfolio at [https://teja-chilukuri.vercel.app](https://teja-chilukuri.vercel.app)
 *   ✉️ You can contact me at [https://www.linkedin.com/in/aditya-sriramteja-chilukuri/](https://www.linkedin.com/in/aditya-sriramteja-chilukuri/) or [ch.adityasriramteja@gmail.com](mailto:ch.adityasriramteja@gmail.com)
 
 ### 🎯 Interests
